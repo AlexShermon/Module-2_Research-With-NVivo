@@ -1,4 +1,4 @@
-# Module-1: Research With Nvivo
+# Module 2: Research With Nvivo
 
 ## Workshop Overview
 In this workshop, you will learn how the basics of how NVivo can assist you in qualitative and mixed-method research.
